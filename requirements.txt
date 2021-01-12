@@ -149,3 +149,4 @@ pypandoc
 
 # Pypi uploads
 twine==1.11.0
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
